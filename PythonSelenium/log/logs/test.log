@@ -1,0 +1,10 @@
+sdfasj
+sdfasj
+2024-04-15 15:55:40,317 user_log.py <module> 18 DEBUG test1234
+2024-04-15 15:56:52,882 user_log.py ---> <module> 18 : DEBUG ---> test1234
+2024-04-15 16:02:09,928 user_log.py ---> <module> 22 : DEBUG ---> test1234
+2024-04-15 16:06:08,207 user_log.py ---> <module> 22 : DEBUG ---> test1234
+2024-04-15 16:28:27,314 user_log.py ---> <module> 26 : DEBUG ---> test1234
+2024-04-15 16:28:41,222 user_log.py ---> <module> 26 : DEBUG ---> test1234
+2024-04-15 16:30:05,615 user_log.py ---> <module> 28 : DEBUG ---> test1234
+2024-04-15 16:30:22,718 user_log.py ---> <module> 28 : DEBUG ---> test1234
